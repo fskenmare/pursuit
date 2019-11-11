@@ -2,6 +2,10 @@ body {
     font-family: 'Open Sans', sans-serif;
 }
 
+a.text-info:visited {
+    color: #17a2b8 !important;
+}
+
 /* navbar */
 .nav-col {
     padding: 0;
@@ -30,6 +34,7 @@ body {
 }
 
 .toc .card {
+    height: 100%;
     width: 290px;
     margin: auto;
 }
@@ -95,7 +100,7 @@ body {
     .toc .card-img-top {
         height: 200px;
     }
-    
+
     .toc .portrait .card-img-top {
         width: 100%;
         height: auto;

@@ -73,7 +73,8 @@ a.text-info:visited {
     text-decoration: underline;
 }
 
-.post p {
+.post p,
+.post li {
     margin-bottom: 1.5rem;
 }
 
